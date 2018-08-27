@@ -3,3 +3,5 @@ This is my second commit.
 demo
 
 Amend test
+submodule test
+/home/skumar/Documents/learningclonegit
